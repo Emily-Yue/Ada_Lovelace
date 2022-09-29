@@ -1,0 +1,1 @@
+double bernoulli(int n);
